@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on **Intent-Based Optical Networks**
-- 🌱 I’m a student of a **PhD in Electrical Engineering at University of Campinas (Brazil)**: *Faculdade de Engenharia Elétrica e de Computação - UNICAMP* (Área de concentração: Telecomunicações e Telemática)
+- 🌱 I’m a student of a **Ph.D. program in Electrical Engineering at University of Campinas (Brazil)**: *Faculdade de Engenharia Elétrica e de Computação - UNICAMP* (Área de concentração: Telecomunicações e Telemática)
 - 👯 I’m looking to collaborate on **Programming**
 - 🤔 *I’m looking for help with "Intent-Based Optical Networks"*
 - 💬 Ask me about: **Optical Networks & Programming**
