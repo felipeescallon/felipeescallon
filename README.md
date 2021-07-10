@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **Programming**
 - 🤔 *I’m looking for help with "Intent-Based Optical Networks"*
 - 💬 Ask me about: **Optical Networks & Programming**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andres-felipe-escallon-portilla/?locale=en_US) 
+- 📫 How to reach me: [HERE](https://felipeescallon.github.io/felipeescallon.io/) 
 - 😄 *Hobbies: CrossFit, Soccer*
 - ⚡ **Interests**: Telecommunications Engineering (Optical Communications), Satellite Communications, Science, Technology, Innovation, Research, Digital Transformation, Data Science, Big Data, AI (ML / DL), Blockchain, Cloud & DevOps, Cybersecurity, Sensors and IoT.
 
