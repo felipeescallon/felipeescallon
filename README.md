@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on **Optical Intent-Based Networking (IBN), and QoT algortithms aplication in Optical Networks Survivability**
-- 🌱 I’m a student of a **Ph.D. program in Electrical Engineering at University of Campinas (Brazil)**: *Faculdade de Engenharia Elétrica e de Computação - UNICAMP* (Área de concentração: Telecomunicações e Telemática)
+- 🌱 **PhD(c) program in Electrical Engineering at University of Campinas (Brazil)**: *Faculdade de Engenharia Elétrica e de Computação - UNICAMP* (Área de concentração: Telecomunicações e Telemática)
+- 🔭 I’m currently working on **Optical Intent-Based Networking (IBN), and QoT Engine for Advanced Optical Networks (QoT algortithms aplication in Optical Networks Survivability)**
 - 👯 I’m looking to collaborate on **Programming**
-- 🤔 *I’m looking for help with "Intent-Based Optical Networks, and QoT in Optical Networks Survivability"*
+- 🤔 *I’m looking for help with "Intent-Based Optical Networks, and QoT in Advanced Optical Networks"*
 - 💬 Ask me about: **Optical Networks & Programming**
 - 📫 How to reach me: [HERE](https://felipeescallon.github.io/felipeescallon.io/) 
 - 😄 *Hobbies: CrossFit, Soccer*
