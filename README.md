@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 **PhD student in Electrical Engineering at University of Campinas (Brazil)**: *Faculdade de Engenharia Elétrica e de Computação - UNICAMP* (Área de concentração: Telecomunicações e Telemática)
+- 🌱 **PhD (c) in Electrical Engineering at University of Campinas (Brazil)**: *Faculdade de Engenharia Elétrica e de Computação - UNICAMP* (Área de concentração: Telecomunicações e Telemática)
 - 🔭 I’m currently working on **Optical Intent-Based Networking (IBN), and QoT Engine for Advanced Optical Networks (QoT algortithms aplication in Optical Networks Survivability)**
 - 👯 I’m looking to collaborate on **Programming**
 - 🤔 *I’m looking for help with "Intent-Based Optical Networks, and QoT in Advanced Optical Networks"*
